@@ -11,7 +11,7 @@ public class Dice {
         int hp = 60; //enemy hp
         int strBonus = 5; //strentgh bonus
         int prof = 2; //proficeny
-        int ac = 35; //armor class 
+        int ac = 15; //armor class 
         
         
         
